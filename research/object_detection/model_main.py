@@ -22,6 +22,8 @@ from absl import flags
 
 import tensorflow as tf
 
+tf.logging.set_verbosity(tf.logging.INFO)
+
 from object_detection import model_hparams
 from object_detection import model_lib
 
