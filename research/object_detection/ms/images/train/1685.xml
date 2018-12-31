@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>1685.jpg</filename>
+	<path>C:\Users\aliir\Desktop\Repos\models\research\object_detection\ms\images\1685.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>691</width>
+		<height>461</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ceiling fan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>306</xmin>
+			<ymin>39</ymin>
+			<xmax>474</xmax>
+			<ymax>123</ymax>
+		</bndbox>
+	</object>
+</annotation>
