@@ -32,3 +32,4 @@ def main():
         xml_df.to_csv('ms/data/{}_labels.csv'.format(directory), index=None)
         print('Successfully converted xml to csv.')
 
+main()
