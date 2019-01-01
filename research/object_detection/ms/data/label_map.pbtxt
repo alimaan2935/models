@@ -1,4 +1,44 @@
 item {
   id: 1
-  name: 'ceiling fan'
+  name: 'CeilingFan'
+}
+item {
+  id: 2
+  name: 'Lawn'
+}
+item {
+  id: 3
+  name: 'Seaside'
+}
+item {
+  id: 4
+  name: 'AirConditioner'
+}
+item {
+  id: 5
+  name: 'Wooden Floor'
+}
+item {
+  id: 6
+  name: 'Robes'
+}
+item {
+  id: 7
+  name: 'Dishwasher'
+}
+item {
+  id: 8
+  name: 'Bathtub'
+}
+item {
+  id: 9
+  name: 'ElectronicRangehood'
+}
+item {
+  id: 10
+  name: 'ApartmentBuilding'
+}
+item {
+  id: 11
+  name: 'Pool'
 }
